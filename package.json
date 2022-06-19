@@ -1,0 +1,28 @@
+{
+  "name": "api-rest-express",
+  "version": "0.1.0",
+  "description": "Création d'API Rest avec ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Api",
+    "Rest",
+    "Reat",
+    "API",
+    "ExpressJS",
+    "Javascript",
+    "Xarala",
+    "Xarala Academy"
+  ],
+  "author": "Xarala221",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
